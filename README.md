@@ -30,19 +30,19 @@ npm i -D @nhz.io/mini-mock
 ```
 
 ## Usage
-```
+```javascript
 // will-get-mock.js
 const someModule = require('some-module')
 ...
 ```
 
-```
+```javascript
 // will-get-real.js
 const someModule = require('some-module')
 ...
 ```
 
-```
+```javascript
 // test.js
 require('@nhz.io/mini-mock')
 
