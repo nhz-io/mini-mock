@@ -1,6 +1,6 @@
 {
   "name": "@nhz.io/mini-mock",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Patch require() to return mocks",
   "main": "index.js",
   "scripts": {
