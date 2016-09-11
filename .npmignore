@@ -2,4 +2,5 @@
 .editorconfig
 .gitignore
 .tern-project
+.flowconfig
 *.log

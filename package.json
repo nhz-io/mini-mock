@@ -1,0 +1,24 @@
+{
+  "name": "@nhz.io/mini-mock",
+  "version": "1.0.0",
+  "description": "Patch `require()` to return mocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "prepublish": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhz-io/mini-mock.git"
+  },
+  "keywords": [
+    "mini-mock",
+    "nhz.io"
+  ],
+  "author": "Ishi Ruy <dev@nhz.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nhz-io/mini-mock/issues"
+  },
+  "homepage": "https://github.com/nhz-io/mini-mock"
+}
